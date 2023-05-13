@@ -2,6 +2,10 @@
 
 wanna talk something with 申同学？
 
+身为一个心理学一年级的菜狗，我对编程、骑行、做视频等等事情感兴趣，而且...
+
+要不这个个人介绍以后再写吧，近期实在是有点累，不想动了。
+
 <!--
 **ShenFengyue/ShenFengyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
