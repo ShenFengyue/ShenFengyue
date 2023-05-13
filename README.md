@@ -6,6 +6,8 @@ wanna talk something with 申同学？
 
 要不这个个人介绍以后再写吧，近期实在是有点累，不想动了。
 
+---
+
 最近在学习HTML语言：
 
 [我的HTML笔记](https://linfengyue.gitbook.io/html-notes/)
