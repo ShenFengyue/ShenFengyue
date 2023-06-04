@@ -8,7 +8,9 @@ wanna talk something with 申同学？
 
 2023年6月4日更新，这个以后就用来记录不同时期我做的一些比较有意义的事情。
 
-![Github中文文档](https://docs.github.com/zh)
+Github中文文档：
+
+https://docs.github.com/zh
 
 ---
 
