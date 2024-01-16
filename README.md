@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Python, HTML, entrepreneurship...
+Python, HTML, Entrepreneurship...
 
 ---
 
