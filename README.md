@@ -2,7 +2,7 @@
 
 Python, HTML, Entrepreneurship...
 
-linfengyue.gitee.io
+https://linfengyue.gitee.io/
 
 ---
 
