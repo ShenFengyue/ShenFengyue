@@ -1,19 +1,3 @@
-### Hi there 👋
-
-Python, HTML, Entrepreneurship...
-
-https://linfengyue.gitee.io/
-
----
-
-2024年5月9日
-
-最近有些忙
-
-2024年11月17日
-
-希望精神状态日益良好！
-
 2025年6月12日
 
 半年，恍如隔世。
@@ -25,3 +9,22 @@ https://linfengyue.gitee.io/
 读了不少书，政治、哲学、逻辑、文学，商业、教育，皆有涉猎，常与人交流，被赞为“思想高深”，被批评”双脚离地，不切实际“，白天和五六个人一起在街上说笑嬉闹，傍晚独自坐在湖边看城市夜景。
 
 尘埃落处，独居赏月。
+
+
+---
+
+### Hi there 👋
+
+Python, HTML, Entrepreneurship...
+
+https://linfengyue.gitee.io/
+
+2024年5月9日
+
+最近有些忙
+
+2024年11月17日
+
+希望精神状态日益良好！
+
+
